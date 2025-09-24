@@ -12,52 +12,49 @@ Kelas : TI.24.A.5
 
 ## Jawaban
 
-1. 
+1. ini menggunakan tag `<hr>`
+
 ![gambar](ss1.jpeg)
 
-ini menggunakan tag <hr>
+dan ini menggunakan tag `<br>`
 
 ![gambar](ss2.jpeg)
 
-dan ini menggunakan tag <br>
+2. ini meggunakan `align="center"`
 
-2. 
 ![gambar](ss1.jpeg)
 
-ini meggunakan align="center"
+dan ini menggunakan `align="justify"`
 
 ![gambar](ss3.jpeg)
 
-dan ini menggunakan align="justify"
-
-3. 
+3. Ini sebelum saya tambahkan tag `<mark>, <i>, dan <b>`
+4. 
 ![gambar](ss1.jpeg)
 
-Ini sebelum saya tambahkan tag <mark>, <i>, dan <b>
+Ini sesudah saya tambahkan tag `<mark>, <i>, dan <b>`
 
 ![gambar](ss4.jpeg)
-
-Ini sesudah saya tambahkan tag <mark>, <i>, dan <b>
 
 Itu adalah beberapa perubahan yang saya lakukan dan ketika saya melakukan tidak terjadi error atau kesalahan.
 
 ## Pertanyaan
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!
 
 ## Jawaban
 
-Kalau <p> itu untuk membuat sebuah paragraf yang otomatis ada sebuah jarak atas dan bawahnya, sedangkan <br> dipakai untuk pindah ke baris selanjutnya dan tanpa jarak tambahan.
+Kalau `<p>` itu untuk membuat sebuah paragraf yang otomatis ada sebuah jarak atas dan bawahnya, sedangkan `<br>` dipakai untuk pindah ke baris selanjutnya dan tanpa jarak tambahan.
 
 ## Pertanyaan
 
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`, berikan penjelasannya!
 
 ## Jawaban
 
-- Atribut alt digunakan untuk memberi teks alternatif jika gambar tidak bisa ditampilkan (misalnya ketika jaringan/koneksi ktia lemot atau bisa jadi juga gambarnya rusak) jadi kalau gambar tidak muncul, yang tampil tulisannya saja.
+- Atribut `alt` digunakan untuk memberi teks alternatif jika gambar tidak bisa ditampilkan (misalnya ketika jaringan/koneksi ktia lemot atau bisa jadi juga gambarnya rusak) jadi kalau gambar tidak muncul, yang tampil tulisannya saja.
 
-- Sedangkan Atribut title digunakan untuk memberi informasi tambahan saja, jadi semisal kita arahkan kursor ke gambar maka akan muncul judul/title tersebut.
+- Sedangkan Atribut `title` digunakan untuk memberi informasi tambahan saja, jadi semisal kita arahkan kursor ke gambar maka akan muncul judul/title tersebut.
 
 ## Pertanyaan
 
