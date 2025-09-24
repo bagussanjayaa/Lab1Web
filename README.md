@@ -29,7 +29,7 @@ dan ini menggunakan `align="justify"`
 ![gambar](ss3.jpeg)
 
 3. Ini sebelum saya tambahkan tag `<mark>, <i>, dan <b>`
-4. 
+   
 ![gambar](ss1.jpeg)
 
 Ini sesudah saya tambahkan tag `<mark>, <i>, dan <b>`
